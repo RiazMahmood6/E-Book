@@ -32,4 +32,4 @@ Once opened, follow the instructions in the notebook to input your genre, chapte
 
 - **GPT-4 Turbo** for text generation.
 - **DALL·E** for image generation and visual storytelling.
-- Open-source contributors for datasets and tools used in this project.
+
