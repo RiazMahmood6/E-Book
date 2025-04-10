@@ -23,10 +23,11 @@
 
 To generate your own ebook, simply run the Colab notebook:
 
-[Open Ebook Generator in Google Colab](https://colab.research.google.com/drive/your-notebook-link)
+[Open Ebook Generator in Google Colab](https://github.com/RiazMahmood6/E-book/blob/main/E_book_Generate_with_AI.ipynb)
 
 Once opened, follow the instructions in the notebook to input your genre, chapter titles, and any other custom settings. The notebook will guide you through the process of generating and exporting your ebook.
 
+[Generated Book](https://drive.google.com/file/d/1_f7j8DNiBCQPb0nKaVdUXD3Jw86d09_7/view?usp=sharing)
 
 ## Acknowledgements
 
